@@ -22,10 +22,7 @@ I am a frontend developer with 5 years of experience in building web and mobile 
 ### 🔥 Featured Projects
 
 - 🖥️ [My Portfolio](https://lehi10.github.io/) - Built with Astro
-
-  
 - 📱 [React Native App](https://github.com/yourusername/my-app) - Mobile application using Expo
-- ✨ [My Blog](https://dev.to/lehi10) - Published on GitHub Pages
 
 ---
 
