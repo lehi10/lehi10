@@ -31,7 +31,7 @@ I am a frontend developer with 5 years of experience in building web and mobile 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lehi-quincho) 
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lehi10)
 
-📩 **Email:** [youremail@example.com](mailto:lqmyacs@gmail.com)
+📩 **Email:** [lqmyacs@gmail.com](mailto:lqmyacs@gmail.com)
 
 ---
 
